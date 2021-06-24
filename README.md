@@ -14,12 +14,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="amnkhan.me" width="22px" src="https://img.icons8.com/cute-clipart/452/web.png" />][website]
-[<img align="left" alt="Al Amin Khan | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/452/twitter.png" />][twitter]
-[<img align="left" alt="Al Amin Khan | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/452/linkedin.png" />][linkedin]
-[<img align="left" alt="Al Amin Khan | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/452/instagram-new.png" />][instagram]
-[<img align="left" alt="Al Amin Khan | Dribbble" width="22px" src="https://img.icons8.com/cute-clipart/452/dribbble.png" />][dribbble]
-[<img align="left" alt="Al Amin Khan | Behance" width="22px" src="https://img.icons8.com/cute-clipart/452/behance.png" />][behance]
+[<img align="left" alt="amnkhan.me" width="22px" src="https://img.icons8.com/fluent/452/internet.png" />][website]
+[<img align="left" alt="Al Amin Khan | Twitter" width="22px" src="https://img.icons8.com/color/452/twitter-squared.png" />][twitter]
+[<img align="left" alt="Al Amin Khan | LinkedIn" width="22px" src="https://img.icons8.com/color/452/linkedin.png" />][linkedin]
+[<img align="left" alt="Al Amin Khan | Instagram" width="22px" src="https://img.icons8.com/fluent/452/instagram-new.png" />][instagram]
+[<img align="left" alt="Al Amin Khan | Dribbble" width="22px" src="https://img.icons8.com/color/452/dribbble.png" />][dribbble]
+[<img align="left" alt="Al Amin Khan | Behance" width="22px" src="https://img.icons8.com/color/452/behance.png" />][behance]
 
 <br />
 
@@ -43,5 +43,5 @@
 [twitter]: https://twitter.com/amnkhan_me
 [instagram]: https://www.instagram.com/amnkhan.me/
 [linkedin]: https://www.linkedin.com/in/amnkhan/
-[dribble]: https://dribbble.com/amnkhan
+[dribbble]: https://dribbble.com/amnkhan
 [behance]: https://www.behance.net/amnkhan
