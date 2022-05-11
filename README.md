@@ -5,7 +5,7 @@
 ## I'm a Front-End Web developer, JavaScript Lover!!
 
 - 📝 I’m currently learning React ❤
-- 🥅 2021 Goals: Be good at React.JS and Node.JS
+- 🥅 2022 Goals: Be good at React.JS and Node.JS
 - ⚡ Fun fact: I love to travel and play Ukulele / Guitar
 
 <!-- ### Spotify Playing 🎧
