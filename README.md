@@ -4,7 +4,7 @@
 
 ## I'm a Front-End Web developer, JavaScript Lover!!
 
-- 🐈 Love cat 
+- 🐈 Cat Lover
 - 🏍️ Enojoy Traveling
 
 <!-- ### Spotify Playing 🎧
